@@ -49,7 +49,7 @@ the design, implementation and maintenance of the tool and it’s SDLC pipelines
 - [Blameless postmortems and psychological safety](https://samraza.medium.com/blameless-postmortems-and-psychological-safety-61ef71a2b478) `5 mins read`
 - [Building my first homebrewed datacentre](https://samraza.medium.com/building-my-first-homebrewed-datacentre-3b8457ef969e) `10 mins read`
 
-### 📫 Feel free to reach out
+### 📫 Feel free to reach out:
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/samraza/">
