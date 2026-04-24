@@ -18,46 +18,67 @@ I am a Cloud certified engineer with experience in Infrastructure, DevOps and Re
 
 A cross-platform command-line tool that helps users configure and deploy terraform &
 opentofu remote backends supporting multiple cloud platforms. I am solely responsible for
-the design, implementation and maintenance of the tool and it’s SDLC pipelines. The tool is available at [www.terraprep.xyz](https://www.terraprep.xyz). I also wrote about the tool and it's history here. 👇 
+the design, implementation and maintenance of the tool and it’s SDLC pipelines. The tool is available at [www.terraprep.xyz](https://www.terraprep.xyz). I also wrote about the tool here. 👇 
 
 - 📗 [How I assembled together a product in my spare time](https://medium.com/@samraza/how-i-assembled-together-a-product-in-my-spare-time-979342e5d696) `(6 mins read)`
 
 ---
 
-**Stack I like:**
+**Tech Stack I like:**
 
 <div display="flex">
     <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
     <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
     <img src="https://img.shields.io/badge/terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+    <img src="https://img.shields.io/badge/Vault-black.svg?style=for-the-badge&logo=vault&logoColor=white" alt="Vault"/>
     <img src="https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails"/>
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </div>
 
----
+<div display="flex">
+</br>
+</div>
 
 **Cloud Platforms I am most comfortable with:**
 <div display="flex">
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Hetzner-black.svg?style=for-the-badge&logo=Hetzner" alt="Hetzner"/>
 </div>
 
+<div display="flex">
+</br>
+</div>
 
-### 📰 Some of my musings:
+**Other Cloud Platforms I have used for my own projects:**
+<div display="flex">
+    <img src="https://img.shields.io/badge/Hetzner-black.svg?style=for-the-badge&logo=Hetzner" alt="Hetzner"/>
+    <img src="https://img.shields.io/badge/CloudStack-1D6293?style=for-the-badge&logo=apachecloudstack&logoColor=white" alt="Cloudstack"/>
+    <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="Openstack"/>
+    <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+    <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="AliCloud"/>
+    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+</div>
+
+---
+
+### 📗 Some of my musings:
 - [Optimising Terraform IaC Development with Proven Patterns](https://samraza.medium.com/optimising-terraform-iac-development-with-proven-patterns-ce81ad0645a6) `8 mins read`
 - [Blameless postmortems and psychological safety](https://samraza.medium.com/blameless-postmortems-and-psychological-safety-61ef71a2b478) `5 mins read`
 - [Building my first homebrewed datacentre](https://samraza.medium.com/building-my-first-homebrewed-datacentre-3b8457ef969e) `10 mins read`
 
-### 📫 Feel free to reach out:
+---
+
+### 📞 Feel free to reach out:
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/samraza/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://medium.com/@samraza">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:hello@samraza.xyz">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" alt="Medium"/></a>
 </div>
