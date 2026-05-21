@@ -18,9 +18,22 @@ I am a Cloud certified engineer with experience in Infrastructure, DevOps and Re
 
 A cross-platform command-line tool that helps users configure and deploy terraform &
 opentofu remote backends supporting multiple cloud platforms. I am solely responsible for
-the design, implementation and maintenance of the tool and it’s SDLC pipelines. The tool is available at [www.terraprep.xyz](https://www.terraprep.xyz). I also wrote about the tool here. 👇 
+the design, implementation and maintenance of the tool and it's SDLC pipelines. The tool is available at [www.terraprep.xyz](https://www.terraprep.xyz). I also wrote about the tool here. 👇 
 
 - 📗 [How I assembled together a product in my spare time](https://medium.com/@samraza/how-i-assembled-together-a-product-in-my-spare-time-979342e5d696) `(6 mins read)`
+
+---
+
+<a href="#">
+  <img src="domainion.png" alt="domainion logo" width="150"/>
+</a>
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-326CE5?style=for-the-badge&logo=hetzner&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+A Ruby on Rails SaaS application for domain portfolio management. Users organise into workspaces, track domains across multiple registrars, manage API credentials, and view expiry/renewal status on a dashboard. Built with Rails 8, Hotwire (Turbo + Stimulus), Tailwind CSS 4, and deployed via Kamal to Hetzner ARM64 infrastructure with Litestream backups.
 
 ---
 
