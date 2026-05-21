@@ -33,7 +33,7 @@ the design, implementation and maintenance of the tool and it's SDLC pipelines. 
 ![Hetzner](https://img.shields.io/badge/Hetzner-326CE5?style=for-the-badge&logo=hetzner&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-A Ruby on Rails SaaS application for domain portfolio management. Users organise into workspaces, track domains across multiple registrars, manage API credentials, and view expiry/renewal status on a dashboard. Built with Rails 8, Hotwire (Turbo + Stimulus), Tailwind CSS 4, and deployed via Kamal to Hetzner ARM64 infrastructure with Litestream backups.
+A Ruby on Rails SaaS application for domain portfolio management. Users organise into workspaces, track domains across multiple registrars, manage API credentials, and view expiry/renewal status on a dashboard. Built with Rails 8, Hotwire (Turbo + Stimulus), Tailwind CSS 4, and deployed via Kamal to Hetzner ARM64 infrastructure with Litestream backups. The app is available at [www.domainion.app](https://www.domainion.app)
 
 ---
 
